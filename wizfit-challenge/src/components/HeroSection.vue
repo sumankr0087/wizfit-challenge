@@ -41,7 +41,7 @@ export default {
   align-items: center;
   justify-content: center;
   padding: 8px;
-  width: 8rem;
+  width: 10rem;
   background-color: rgb(208, 4, 4);
   color: white;
   border: none;
